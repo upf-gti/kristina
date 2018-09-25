@@ -11,3 +11,6 @@ An Horizon 2020 European Project developed in conjunction many parners of the **
 [Official Website](http://kristina-project.eu/en/) | 
 [Video](https://www.youtube.com/watch?v=Vo0t32e_zug) |
 [CF. Demo](build/cf) | [SF. Demo](build/sf) | [SM. Demo](build/sm) ]
+
+
+[**View on Github Pages**](https://upf-gti.github.io/kristina)
