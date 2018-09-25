@@ -1,7 +1,7 @@
 # **Kristina Project**
 An Horizon 2020 European Project about conversational agents
 
-> **tags |** JavaScript, WebGL, GLSL, Animation, Conversational Agents, Gestures, Facial Expressivity, Virtual Characters, BML, Behavior Markup Language
+> **tags:** JavaScript, WebGL, GLSL, Animation, Conversational Agents, Gestures, Facial Expressivity, Virtual Characters, BML, Behavior Markup Language
 
 ![](https://i.imgur.com/iVwplRf.png)
 
